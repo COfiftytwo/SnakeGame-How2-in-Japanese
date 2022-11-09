@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="790px" height="200px" />
 今回はPlataneさんが作ったスネークゲームを使ってみましょう～
 
-スネークゲームのGithubのマーケットプレイスはコチラから→https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
-
+スネークゲームのGithubのマーケットプレイスは<a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
+">コチラから</a>
 
 手順１：リポジトリを作成する
 Repository nameは好き名前を。作成の際「Add a README file」にチェックを忘れないように～ 
