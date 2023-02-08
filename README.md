@@ -1,4 +1,4 @@
-# スネークゲーム - 日本語版！
+# スネークゲーム - 日本語（現在は動きません→<a href="https://github.com/COfiftytwo/SnakeGame-How2-inJapanese-Ver.2">最新版</a>）
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="790px" height="200px" />
 今回はPlataneさんが作ったスネークゲームを使ってみましょう～
 
